@@ -32,22 +32,19 @@ div#divisoria{
       
   }
 
-#bola {
-    
-    height: 30px;
-    width: 30px;
-  
-   
-}
 header#cabecalho img{
+    
+    border-radius: 50%;
+    width: 10%;
+    height: auto;
+    background-color:#FF6B0B;
     position: absolute;  
     left: 16%;
     top: 10%;
-    height: 160px;
-    width:160px;
-    margin-bottom: 0px;
+   
 
 }
+
 header#cabecalho img#logo:hover{
     
 }
